@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/a21tya/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/a21tya/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/a21tya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a21tya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/a21tya/DSA/tree/master/0283-move-zeroes) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/a21tya/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/a21tya/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/a21tya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a21tya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/a21tya/DSA/tree/master/0283-move-zeroes) |
@@ -22,6 +24,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/a21tya/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/a21tya/DSA/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/a21tya/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |

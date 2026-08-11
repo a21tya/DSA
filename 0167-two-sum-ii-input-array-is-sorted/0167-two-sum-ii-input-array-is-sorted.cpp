@@ -5,16 +5,16 @@ public:
         int i=0;
         int j=n-1;
         while(i<j){
-            if(arr[i]+arr[j]==target){
-                return{i+1,j+1};
-            }
-            else if(arr[i]+arr[j]>target){
+            if(arr[i]+arr[j]>target){
                 j--;
             }
-            else{
+            else if(arr[i]+arr[j]<target){
                 i++;
             }
+            else{
+                return{i+1,j+1};
+            }
         }
-            return {};
+        return {};
     }
 };

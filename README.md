@@ -19,6 +19,7 @@
 | [0016-3sum-closest](https://github.com/a21tya/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/a21tya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/a21tya/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/a21tya/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a21tya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/a21tya/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/a21tya/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/a21tya/DSA/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/a21tya/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

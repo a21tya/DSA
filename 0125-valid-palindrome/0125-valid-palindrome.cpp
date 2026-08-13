@@ -11,7 +11,7 @@ public:
             while(i<j && !isalnum(s[j])){
                 j--;
             }
-            if(tolower(s[i])!= tolower(s[j])){
+            if(tolower(s[i])!=tolower(s[j])){
                 return false;
             }
             i++;
@@ -19,5 +19,4 @@ public:
         }
         return true;
     }
-
 };

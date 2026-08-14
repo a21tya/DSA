@@ -55,6 +55,7 @@
 | [0344-reverse-string](https://github.com/a21tya/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/a21tya/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/a21tya/DSA/tree/master/0844-backspace-string-compare) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/a21tya/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -71,4 +72,12 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/a21tya/DSA/tree/master/0881-boats-to-save-people) |
+## Hash Table
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/a21tya/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/a21tya/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->

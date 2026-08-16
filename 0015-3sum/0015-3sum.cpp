@@ -6,9 +6,10 @@ public:
         vector<vector<int>> ans;
         for(int i=0; i<n; i++){
             if(i>0 && arr[i]==arr[i-1]){
-                continue;
+                    continue;
             }
-            int j=i+1, k=n-1;
+            int j=i+1;
+            int k=n-1;
             while(j<k){
                 int sum=arr[i]+arr[j]+arr[k];
                 if(sum>0){

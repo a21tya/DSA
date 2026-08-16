@@ -2,22 +2,22 @@ class Solution {
 public:
     vector<int> sortedSquares(vector<int>& arr) {
         int n=arr.size();
-        int l=0;
-        int r=n-1;
+        int i=0;
+        int j=n-1;
+        vector<int> sq(n);
         int k=n-1;
-        vector<int> squares(n);
-        while(l<=r){
-            if(abs(arr[l])>=abs(arr[r])){
-                squares[k]=arr[l]*arr[l];
-                l++;
+        while(i<=j){
+            if(abs(arr[i])>abs(arr[j])){
+                sq[k]=arr[i]*arr[i];
+                i++;
                 k--;
             }
             else{
-                squares[k]=arr[r]*arr[r];
-                r--;
+                sq[k]=arr[j]*arr[j];
+                j--;
                 k--;
             }
         }
-        return squares;
+        return sq;
     }
 };

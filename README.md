@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/a21tya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/a21tya/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a21tya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/a21tya/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/a21tya/DSA/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/a21tya/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/a21tya/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a21tya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/a21tya/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Quicksort
 |  |
 | ------- |
@@ -79,5 +81,10 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/a21tya/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/a21tya/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/a21tya/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

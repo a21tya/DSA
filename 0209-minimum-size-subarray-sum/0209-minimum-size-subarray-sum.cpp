@@ -12,11 +12,17 @@ public:
                 int length=high-low+1;
                 result=min(result,length);
                 sum=sum-arr[low];
-                low++;
+                low++; // firing 
             }
-            high++;
+            high++; // hiring
         }
-        return result == INT_MAX ? 0 : result;
+        if(result==INT_MAX){
+            return 0;
+        }
+        else{
+            return result;
+        }
+        
     }
 
 };

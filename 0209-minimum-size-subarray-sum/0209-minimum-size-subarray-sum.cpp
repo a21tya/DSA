@@ -6,15 +6,14 @@ public:
         int high=0;
         int sum=0;
         int result=INT_MAX;
-        while(high<n){
+        for(int high=0; high<n; high++){
             sum=sum+arr[high];
             while(sum>=target){
                 int length=high-low+1;
                 result=min(result,length);
                 sum=sum-arr[low];
-                low++; // firing 
+                low++;
             }
-            high++; // hiring
         }
         if(result==INT_MAX){
             return 0;
@@ -22,7 +21,5 @@ public:
         else{
             return result;
         }
-        
     }
-
 };

@@ -9,7 +9,7 @@ public:
         for(int high=0; high<n; high++){
             sum=sum+arr[high];
             while(sum>=target){
-                int length=high-low+1;
+            int length=high-low+1;
                 result=min(result,length);
                 sum=sum-arr[low];
                 low++;

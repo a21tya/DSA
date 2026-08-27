@@ -15,7 +15,7 @@ public:
                 cm++;
                 unique++;
             }
-        }
+        }//..
         return unique;
 
     }

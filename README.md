@@ -90,4 +90,24 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/a21tya/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/a21tya/DSA/tree/master/0096-unique-binary-search-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/a21tya/DSA/tree/master/0096-unique-binary-search-trees) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/a21tya/DSA/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/a21tya/DSA/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/a21tya/DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->

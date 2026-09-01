@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/a21tya/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/a21tya/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/a21tya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0051-n-queens](https://github.com/a21tya/DSA/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/a21tya/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a21tya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/a21tya/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -124,4 +125,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/a21tya/DSA/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/a21tya/DSA/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/a21tya/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

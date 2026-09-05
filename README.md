@@ -11,6 +11,7 @@
 | [0051-n-queens](https://github.com/a21tya/DSA/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/a21tya/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a21tya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/a21tya/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/a21tya/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/a21tya/DSA/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/a21tya/DSA/tree/master/0881-boats-to-save-people) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/a21tya/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0198-house-robber](https://github.com/a21tya/DSA/tree/master/0198-house-robber) |
 ## Tree
 |  |
 | ------- |

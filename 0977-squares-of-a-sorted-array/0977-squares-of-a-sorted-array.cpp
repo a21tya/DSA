@@ -17,7 +17,7 @@ public:
                 j--;
                 k--;
             }
-        }
+        }//hehyehy
         return sq;
     }
 };

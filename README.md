@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/a21tya/DSA/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/a21tya/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/a21tya/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/a21tya/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/a21tya/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/a21tya/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/a21tya/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -135,4 +137,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/a21tya/DSA/tree/master/0051-n-queens) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/a21tya/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/a21tya/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

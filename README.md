@@ -32,6 +32,7 @@
 | [0344-reverse-string](https://github.com/a21tya/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/a21tya/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/a21tya/DSA/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/a21tya/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/a21tya/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/a21tya/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/a21tya/DSA/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/a21tya/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |

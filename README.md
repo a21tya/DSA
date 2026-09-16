@@ -14,6 +14,7 @@
 | [0198-house-robber](https://github.com/a21tya/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/a21tya/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/a21tya/DSA/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/a21tya/DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/a21tya/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/a21tya/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/a21tya/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/a21tya/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/a21tya/DSA/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |

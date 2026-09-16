@@ -133,6 +133,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/a21tya/DSA/tree/master/0051-n-queens) |
+| [0797-all-paths-from-source-to-target](https://github.com/a21tya/DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Algorithm X
 |  |
 | ------- |
@@ -145,4 +146,20 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/a21tya/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/a21tya/DSA/tree/master/0797-all-paths-from-source-to-target) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/a21tya/DSA/tree/master/0797-all-paths-from-source-to-target) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/a21tya/DSA/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/a21tya/DSA/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->

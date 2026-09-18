@@ -123,6 +123,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/a21tya/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/a21tya/DSA/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/a21tya/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer

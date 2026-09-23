@@ -12,11 +12,11 @@ public:
             else{
                 arr[officer+1]=arr[cm];
                 officer++;
-                cm++;
                 unique++;
+                cm++;
             }
-        }//..
+        }
         return unique;
-
     }
+
 };

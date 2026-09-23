@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/a21tya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/a21tya/DSA/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/a21tya/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/a21tya/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a21tya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/a21tya/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/a21tya/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -25,6 +26,7 @@
 | [0016-3sum-closest](https://github.com/a21tya/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/a21tya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/a21tya/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/a21tya/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/a21tya/DSA/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/a21tya/DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a21tya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -41,6 +43,7 @@
 | [0015-3sum](https://github.com/a21tya/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/a21tya/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/a21tya/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/a21tya/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/a21tya/DSA/tree/master/0148-sort-list) |
 | [0881-boats-to-save-people](https://github.com/a21tya/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/a21tya/DSA/tree/master/0977-squares-of-a-sorted-array) |

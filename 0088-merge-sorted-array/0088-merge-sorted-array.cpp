@@ -20,12 +20,11 @@ public:
             arr1[k]=arr1[i];
             i--;
             k--;
-
         }
         while(j>=0){
             arr1[k]=arr2[j];
             j--;
             k--;
         }
-    }
+        }
 };

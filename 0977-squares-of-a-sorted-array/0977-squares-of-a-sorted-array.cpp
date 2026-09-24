@@ -7,7 +7,7 @@ public:
         int k=n-1;
         vector<int> sq(n);
         while(i<=j){
-            if(abs(arr[i])> abs(arr[j])){
+            if(abs(arr[i])>abs(arr[j])){
                 sq[k]=arr[i]*arr[i];
                 i++;
                 k--;
